@@ -14,23 +14,9 @@ const _notoSansDevanagari = Noto_Sans_Devanagari({
 
 export const metadata: Metadata = {
   title: "LEKHAN - Programming in Devanagari | देवनागरी प्रोग्रामिंग",
-  description:
-    "Write code in your mother tongue. LEKHAN is a programming language for Marathi speakers with Devanagari script syntax.",
+  description: "Write code in your mother tongue.",
   icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
+    icon: "favicon.jpg",
     apple: "/apple-icon.png",
   },
 }
