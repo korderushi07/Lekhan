@@ -1,7 +1,3 @@
-Here is the updated `README.md` for **Lekhan**. I have rebranded the project name, updated the syntax table, and replaced `मुद्रित` with `छापा` throughout the documentation.
-
----
-
 # लेखन (Lekhan)
 
 **लेखन (Lekhan)** is a modern, web-based programming environment that allows users to write logic using the Marathi language. It is a just a concept designed to demonstrate the power of Marathi in the world of software engineering. It moves beyond simple translation to explore a native-first logic system, where the syntax feels as natural as spoken words.
@@ -86,3 +82,4 @@ Contributions are welcome! If you'd like to add more Marathi keywords or improve
 ---
 
 Made with ❤️ by **Rushikesh Korde**
+
