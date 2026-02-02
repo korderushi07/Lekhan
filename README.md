@@ -28,7 +28,7 @@ String Preservation: Before any translation happens, the engine identifies and "
 
 ---
 
-## 📝 Syntax Guide
+##  Syntax Guide
 
 | Marathi Keyword | JavaScript Equivalent | Usage Example |
 | --- | --- | --- |
@@ -41,7 +41,7 @@ String Preservation: Before any translation happens, the engine identifies and "
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**:
 ```bash
@@ -67,7 +67,7 @@ npm start
 
 ---
 
-## 💡 Why Lekhan?
+##  Why Lekhan?
 
 We believe that **Digital Sovereignty** begins with language. By removing the English language barrier, we empower students and creators from every corner of Maharashtra to master logic and computer science in their mother tongue. **Lekhan** (Writing) represents the power of creation through our own words.
 
@@ -75,12 +75,13 @@ We believe that **Digital Sovereignty** begins with language. By removing the En
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! If you'd like to add more Marathi keywords or improve the UI patterns, please feel free to open a Pull Request.
 
 ---
 
 Developed by **Rushikesh Korde & Nehal Mehta** ✨
+
 
 
